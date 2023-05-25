@@ -13,4 +13,4 @@
 
 ## Styler02 screenshots
 
-![image_1](Screenshots/image_1.png) ![image_2](Screenshots/image_2.png)
+<img width=260 alt="image_1" src="Screenshots/image_1.png" /> <img width=260 alt="image_2" src="Screenshots/image_2.png"/>
