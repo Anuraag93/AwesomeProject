@@ -1,6 +1,10 @@
 ## Styler02 screenshots
 
-<img width=260 alt="image_1" src="Screenshots/image_1.png" /> <img width=260 alt="image_2" src="Screenshots/image_2.png"/>
+<img width=260 alt="image_1" src="Screenshots/p2_1.png" /> <img width=260 alt="image_2" src="Screenshots/p2_2.png"/>
+
+## PasswordGenerator03 screenshots
+
+<img width=260 alt="image_1" src="Screenshots/p3_1.png" /> <img width=260 alt="image_2" src="Screenshots/p3_2.png"/> <img width=260 alt="image_3" src="Screenshots/p3_2.png"/>
 
 ## React Native basic learner guide
 
