@@ -10,7 +10,7 @@ Learnt about the Yup, Formik and bouncy checkbox packages
 
 ## BackgroundChanger04 screenshots
 
-<img width=260 alt="image_1" src="Screenshots/p4_1.png" /> <img width=260 alt="image_2" src="Screenshots/p4_2.png"/> <img width=260 alt="image_3" src="Screenshots/p4_2.png"/>
+<img width=260 alt="image_1" src="Screenshots/p4_1.png" /> <img width=260 alt="image_2" src="Screenshots/p4_2.png"/> <img width=260 alt="image_3" src="Screenshots/p4_3.png"/>
 
 ## React Native basic learner guide
 
