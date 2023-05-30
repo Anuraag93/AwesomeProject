@@ -12,6 +12,12 @@ Learnt about the Yup, Formik and bouncy checkbox packages
 
 <img width=260 alt="image_1" src="Screenshots/p4_1.png" /> <img width=260 alt="image_2" src="Screenshots/p4_2.png"/> <img width=260 alt="image_3" src="Screenshots/p4_3.png"/>
 
+## RollTheDice05 screenshots
+
+<img width=260 alt="image_1" src="Screenshots/p5_1.png" /> <img width=260 alt="image_2" src="Screenshots/p5_2.png"/> <img width=260 alt="image_3" src="Screenshots/p5_3.png"/>
+
+Learn how to introduce haptic feedback on the device and also work with `PropsWithChildren`
+
 ## React Native basic learner guide
 
 1. Create a React Native project with the following command `npx react-native init <ProjectName>`
